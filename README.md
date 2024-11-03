@@ -64,5 +64,5 @@ We start with a basic `Beverage` (like Coffee) and then wrap it with decorators 
 To run the program, execute the `Main.java` file. Ensure you have Java installed on your machine. You can compile and run the code using the following commands:
 
 ```bash
-javac Main.java
+javac *.java
 java Main
